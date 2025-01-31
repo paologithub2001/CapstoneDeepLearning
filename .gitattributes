@@ -1,0 +1,2 @@
+training_images/*.zip filter=lfs diff=lfs merge=lfs -text
+validation_images/*.zip filter=lfs diff=lfs merge=lfs -text
